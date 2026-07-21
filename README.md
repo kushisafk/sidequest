@@ -1,36 +1,101 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+```
+  ╔══════════════════════════════════════════════════════╗
+  ║   ███████╗██╗██████╗ ███████╗ ██████╗ ██╗   ██╗    ║
+  ║   ██╔════╝██║██╔══██╗██╔════╝██╔═══██╗██║   ██║    ║
+  ║   ███████╗██║██║  ██║█████╗  ██║   ██║██║   ██║    ║
+  ║   ╚════██║██║██║  ██║██╔══╝  ██║▄▄ ██║██║   ██║    ║
+  ║   ███████║██║██████╔╝███████╗╚██████╔╝╚██████╔╝    ║
+  ║   ╚══════╝╚═╝╚═════╝ ╚══════╝ ╚══▀▀═╝  ╚═════╝     ║
+  ║                                                      ║
+  ║           ☠️  FAILED PROJECT GRAVEYARD  ☠️            ║
+  ╚══════════════════════════════════════════════════════╝
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# 🪦 **SIDEQUEST** 🪦
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### *A memorial for side projects that didn't make it.*
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+> *Every great developer has a graveyard of abandoned repos, half-baked ideas,
+> and "I'll finish it tomorrow" projects that never saw the light of day.*
+>
+> **SideQuest is where we bury them with honor.**
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 📖 **The Lore**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Once upon a time, in the sprawling digital kingdom of GitHub, a developer had
+**way too many ideas** and **not enough time**. Features were built, repos were
+pushed, and then... silence. The allure of a shiny new framework, the burnout
+from scope creep, the realization that *nobody* actually needed yet another
+note-taking app — the reasons were endless.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+**SideQuest** is a digital graveyard ⚰️ where these fallen side projects
+come to rest. Each project gets a proper burial with:
 
-## Deploy on Vercel
+- ⚱️ An **epitaph** to commemorate its short life
+- 📜 **Lessons learned** so others may benefit
+- 🏷️ **Death tags** (burnout, scope-creep, no-market, etc.)
+- 💀 A proper **gravestone** on the homepage
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🎮 **Features**
+
+| Feature | Description |
+|---------|-------------|
+| ⚰️ **Burial Ground** | Browse the graveyard of failed projects |
+| 🪦 **Gravestones** | Each project gets a lovingly designed tombstone |
+| 🔥 **Death Tags** | Filter by cause of death (burnout, scope-creep, etc.) |
+| 🎸 **Party Build** | Automated career suggestions based on your graveyard |
+| ✍️ **Guestbook** | Pay your respects to fallen projects |
+| 🔐 **GitHub OAuth** | Sign in to memorialize your own fallen soldiers |
+| ⚡ **Thunder Intro** | Dramatic lightning bolt entrance animation |
+| ☄️ **Asteroid Shower** | Rare cosmic events in the background (1% chance) |
+| 🕯️ **Admin Controls** | Special powers for the graveyard keeper |
+
+---
+
+## 🛠️ **Tech Stack**
+
+```
+  ╔═══════════════════╦══════════════════════════════════╗
+  ║    LAYER          ║     TECHNOLOGY                   ║
+  ╠═══════════════════╬══════════════════════════════════╣
+  ║  🎨 Frontend      ║  Next.js 16 + Tailwind CSS v4    ║
+  ║  🧩 Language      ║  TypeScript (strict mode)        ║
+  ║  🗄️  Database      ║  Supabase (PostgreSQL)           ║
+  ║  🔗 ORM           ║  Prisma v7 + PrismaPg adapter    ║
+  ║  🔐 Auth          ║  NextAuth v5 (GitHub OAuth)      ║
+  ║  🚀 Platform      ║  Vercel (serverless)             ║
+  ║  🖌️  Fonts        ║  Press Start 2P + VT323 (retro)  ║
+  ╚═══════════════════╩══════════════════════════════════╝
+```
+
+---
+
+## 🌐 **Visit the Graveyard**
+
+> 🔗 **[https://sidequest.cc.cd](https://sidequest.cc.cd)**
+
+Open at your own risk. Bring flowers. 💐
+
+---
+
+## 🧙 **The Keeper**
+
+Built with blood, sweat, and tears (mostly tears) by **[@kushisafk](https://github.com/kushisafk)**.
+
+> *"I started this project to track my abandoned projects...
+> then I abandoned this project too. But I came back.
+> We always come back."*
+
+---
+
+```
+  ╔══════════════════════════════════════════════════════╗
+  ║   ☠️  R.I.P. every side project that never shipped  ☠️  ║
+  ║                                                      ║
+  ║    "The code compiles. That's enough for today."     ║
+  ╚══════════════════════════════════════════════════════╝
+```
