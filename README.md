@@ -1,14 +1,10 @@
 ```
-  ╔══════════════════════════════════════════════════════╗
-  ║   ███████╗██╗██████╗ ███████╗ ██████╗ ██╗   ██╗    ║
-  ║   ██╔════╝██║██╔══██╗██╔════╝██╔═══██╗██║   ██║    ║
-  ║   ███████╗██║██║  ██║█████╗  ██║   ██║██║   ██║    ║
-  ║   ╚════██║██║██║  ██║██╔══╝  ██║▄▄ ██║██║   ██║    ║
-  ║   ███████║██║██████╔╝███████╗╚██████╔╝╚██████╔╝    ║
-  ║   ╚══════╝╚═╝╚═════╝ ╚══════╝ ╚══▀▀═╝  ╚═════╝     ║
-  ║                                                      ║
-  ║           ☠️  FAILED PROJECT GRAVEYARD  ☠️            ║
-  ╚══════════════════════════════════════════════════════╝
+░██████╗██╗██████╗░███████╗░██████╗░██╗░░░██╗███████╗░██████╗████████╗
+██╔════╝██║██╔══██╗██╔════╝██╔═══██╗██║░░░██║██╔════╝██╔════╝╚══██╔══╝
+╚█████╗░██║██║░░██║█████╗░░██║░░░██║██║░░░██║█████╗░░╚█████╗░░░░██║░░░
+░╚═══██╗██║██║░░██║██╔══╝░░██║░░░██║██║░░░██║██╔══╝░░░╚═══██╗░░░██║░░░
+██████╔╝██║██████╔╝███████╗╚██████╔╝╚██████╔╝███████╗██████╔╝░░░██║░░░
+╚═════╝░╚═╝╚═════╝░╚══════╝░╚═════╝░░╚═════╝░╚══════╝╚═════╝░░░░╚═╝░░░
 ```
 
 # 🪦 **SIDEQUEST** 🪦
@@ -58,19 +54,15 @@ come to rest. Each project gets a proper burial with:
 
 ## 🛠️ **Tech Stack**
 
-```
-  ╔═══════════════════╦══════════════════════════════════╗
-  ║    LAYER          ║     TECHNOLOGY                   ║
-  ╠═══════════════════╬══════════════════════════════════╣
-  ║  🎨 Frontend      ║  Next.js 16 + Tailwind CSS v4    ║
-  ║  🧩 Language      ║  TypeScript (strict mode)        ║
-  ║  🗄️  Database      ║  Supabase (PostgreSQL)           ║
-  ║  🔗 ORM           ║  Prisma v7 + PrismaPg adapter    ║
-  ║  🔐 Auth          ║  NextAuth v5 (GitHub OAuth)      ║
-  ║  🚀 Platform      ║  Vercel (serverless)             ║
-  ║  🖌️  Fonts        ║  Press Start 2P + VT323 (retro)  ║
-  ╚═══════════════════╩══════════════════════════════════╝
-```
+| Layer | Technology |
+|-------|------------|
+| **Frontend** | Next.js 16 + Tailwind CSS v4 |
+| **Language** | TypeScript (strict mode) |
+| **Database** | Supabase (PostgreSQL) |
+| **ORM** | Prisma v7 + PrismaPg adapter |
+| **Auth** | NextAuth v5 (GitHub OAuth) |
+| **Platform** | Vercel (serverless) |
+| **Fonts** | Press Start 2P + VT323 (retro) |
 
 ---
 
@@ -93,9 +85,7 @@ Built with blood, sweat, and tears (mostly tears) by **[@kushisafk](https://gith
 ---
 
 ```
-  ╔══════════════════════════════════════════════════════╗
-  ║   ☠️  R.I.P. every side project that never shipped  ☠️  ║
-  ║                                                      ║
-  ║    "The code compiles. That's enough for today."     ║
-  ╚══════════════════════════════════════════════════════╝
+☠️  R.I.P. every side project that never shipped  ☠️
+
+    "The code compiles. That's enough for today."
 ```
